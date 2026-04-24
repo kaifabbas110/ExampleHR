@@ -383,5 +383,7 @@ docs/
 ├── TRD.md                           # Technical Requirements Document
 └── SYSTEM_DESIGN.md                 # Architecture and flow diagrams
 ```
-#   E x a m p l e H R  
+
+#   E x a m p l e H R 
+ 
  
